@@ -1,2 +1,2 @@
-# pendaftaransiswa
-tugas dari sekolah.
+## Pendaftaran siswa
+tugas yang sebelumnya dibikin dimasukin kesini
